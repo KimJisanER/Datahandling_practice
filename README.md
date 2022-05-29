@@ -1,5 +1,5 @@
 # KimJisan_datann
-numpy, pandas, scikitlearn, 빅데이터 분석기사 공부 자료
+numpy, pandas, scikit learn, 빅데이터 분석기사 공부 자료
 
 # 21년 12월4일까지 빅데이터분석기사 공부(합격)
 
